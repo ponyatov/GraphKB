@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/19/2018 23:00",
+	"super" : "KRDBMS",
+	"category" : "_DB",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "KPostgres",
+	"type" : "normal"
+}

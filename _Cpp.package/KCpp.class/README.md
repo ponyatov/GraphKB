@@ -1,1 +1,2 @@
-C++
+ANSI C++
+- most portable dialect

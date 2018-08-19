@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/19/2018 23:06",
+	"super" : "KFORTH",
+	"category" : "_FORTH",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "KYAPL",
+	"type" : "normal"
+}

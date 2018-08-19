@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/19/2018 22:59",
+	"super" : "KGraphDB",
+	"category" : "_DB",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "KNeo4j",
+	"type" : "normal"
+}
