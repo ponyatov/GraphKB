@@ -1,3 +1,3 @@
 converting
 asString
-	^ self dump
+	^ value asString
