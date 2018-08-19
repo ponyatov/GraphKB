@@ -1,11 +1,11 @@
 {
-	"commentStamp" : "DmitryPonyatov 8/19/2018 22:07",
-	"super" : "KClike",
+	"commentStamp" : "DmitryPonyatov 8/19/2018 22:16",
+	"super" : "KErlang",
 	"category" : "_META",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "KJava",
+	"name" : "KElixir",
 	"type" : "normal"
 }

@@ -1,1 +1,1 @@
-(name '_META-DmitryPonyatov.1' message '+ META' id '112da380-2f30-0d00-afe6-a9fd05b6f593' date '19 August 2018' time '10:14:37.013398 pm' author 'DmitryPonyatov' ancestors () stepChildren ())
+(name '_META-DmitryPonyatov.2' message '+ Erlang' id 'a4cec591-2f30-0d00-bd87-75970dcf928e' date '19 August 2018' time '10:19:24.494727 pm' author 'DmitryPonyatov' ancestors ((name '_META-DmitryPonyatov.1' message '+ META' id '112da380-2f30-0d00-afe6-a9fd05b6f593' date '19 August 2018' time '10:14:37.013398 pm' author 'DmitryPonyatov' ancestors () stepChildren ())) stepChildren ())
