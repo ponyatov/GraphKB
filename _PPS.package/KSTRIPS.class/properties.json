@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/19/2018 23:15",
+	"super" : "KPlanSolver",
+	"category" : "_PPS",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "KSTRIPS",
+	"type" : "normal"
+}
