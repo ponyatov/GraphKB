@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/20/2018 00:23",
+	"super" : "KDocList",
+	"category" : "_DOC",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "KNumbered",
+	"type" : "normal"
+}
