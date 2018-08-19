@@ -1,0 +1,1 @@
+HardWare elements to be used in KB code 

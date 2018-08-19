@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/19/2018 21:33",
+	"super" : "KObject",
+	"category" : "_HW",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "KHW",
+	"type" : "normal"
+}
