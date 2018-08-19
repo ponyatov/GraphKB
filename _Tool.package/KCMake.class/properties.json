@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/19/2018 22:48",
+	"super" : "KBuildTool",
+	"category" : "_Tool",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "KCMake",
+	"type" : "normal"
+}
