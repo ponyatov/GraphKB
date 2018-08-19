@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/19/2018 13:29",
+	"super" : "Object",
+	"category" : "_KB",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"pool"
+	],
+	"instvars" : [
+		"type",
+		"value",
+		"attr",
+		"nest"
+	],
+	"name" : "KObject",
+	"type" : "normal"
+}
