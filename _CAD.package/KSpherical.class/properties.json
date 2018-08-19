@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/19/2018 23:58",
+	"super" : "KCoordSystem",
+	"category" : "_CAD",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "KSpherical",
+	"type" : "normal"
+}
