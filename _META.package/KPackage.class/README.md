@@ -1,0 +1,1 @@
+Module container (Distribution / Application bundle)
