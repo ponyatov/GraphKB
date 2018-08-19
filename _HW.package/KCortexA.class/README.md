@@ -1,0 +1,1 @@
+Cortex-A embedded/mobile SoCs

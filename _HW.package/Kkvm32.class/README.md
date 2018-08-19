@@ -1,0 +1,1 @@
+KVM 32 mode for light VDS servers
