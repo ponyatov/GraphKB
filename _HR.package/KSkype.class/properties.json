@@ -1,11 +1,11 @@
 {
-	"commentStamp" : "DmitryPonyatov 8/19/2018 22:06",
-	"super" : "KObject",
+	"commentStamp" : "DmitryPonyatov 8/19/2018 22:04",
+	"super" : "KContact",
 	"category" : "_HR",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "KProfession",
+	"name" : "KSkype",
 	"type" : "normal"
 }

@@ -1,1 +1,1 @@
-HR::Profession
+HR::Profession Skill group
