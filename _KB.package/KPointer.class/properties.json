@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/19/2018 21:21",
+	"super" : "KPrimitive",
+	"category" : "_KB",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "KPointer",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/19/2018 21:26",
+	"super" : "KActive",
+	"category" : "_KB",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "KFunction",
+	"type" : "normal"
+}
