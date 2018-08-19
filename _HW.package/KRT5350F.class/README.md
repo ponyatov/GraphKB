@@ -1,0 +1,1 @@
+Ralink RT5350F

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/19/2018 22:25",
+	"super" : "KHW",
+	"category" : "_HW",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"arch"
+	],
+	"instvars" : [ ],
+	"name" : "KCPU",
+	"type" : "normal"
+}
