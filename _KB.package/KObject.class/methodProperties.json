@@ -1,9 +1,12 @@
 {
 	"instance" : {
+		"initialize" : "DmitryPonyatov 8/19/2018 17:41",
+		"pool:" : "DmitryPonyatov 8/19/2018 17:42",
 		"pool" : "DmitryPonyatov 8/19/2018 13:31"
 	},
 	"class" : {
 		"install" : "DmitryPonyatov 8/19/2018 13:37",
-		"pool" : "DmitryPonyatov 8/19/2018 13:31"
+		"pool" : "DmitryPonyatov 8/19/2018 13:31",
+		"pool:" : "DmitryPonyatov 8/19/2018 17:42"
 	}
 }
