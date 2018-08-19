@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "DmitryPonyatov 8/19/2018 20:46",
-	"super" : "KJob",
+	"super" : "KPlan",
 	"category" : "_PPS",
 	"classinstvars" : [ ],
 	"pools" : [ ],

@@ -1,1 +1,0 @@
-(co)Worker, parthner, 
