@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/20/2018 00:44",
+	"super" : "KNCOAP",
+	"category" : "_NET",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "KNLWM2M",
+	"type" : "normal"
+}

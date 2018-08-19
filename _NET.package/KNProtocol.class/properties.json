@@ -1,11 +1,11 @@
 {
-	"commentStamp" : "DmitryPonyatov 8/19/2018 22:16",
-	"super" : "KClike",
+	"commentStamp" : "DmitryPonyatov 8/20/2018 00:41",
+	"super" : "KIO",
 	"category" : "_NET",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "KCsharp",
+	"name" : "KNProtocol",
 	"type" : "normal"
 }
