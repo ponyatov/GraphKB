@@ -1,11 +1,11 @@
 {
 	"commentStamp" : "DmitryPonyatov 8/19/2018 23:33",
-	"super" : "KPlanSolver",
+	"super" : "KClike",
 	"category" : "_PPS",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "KSTRIPS",
+	"name" : "KPDDL",
 	"type" : "normal"
 }
