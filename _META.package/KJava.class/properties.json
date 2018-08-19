@@ -1,11 +1,11 @@
 {
-	"commentStamp" : "DmitryPonyatov 8/19/2018 21:30",
+	"commentStamp" : "DmitryPonyatov 8/19/2018 22:07",
 	"super" : "KClike",
-	"category" : "_HTML",
+	"category" : "_META",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "KJS",
+	"name" : "KJava",
 	"type" : "normal"
 }

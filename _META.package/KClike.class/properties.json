@@ -1,11 +1,11 @@
 {
-	"commentStamp" : "DmitryPonyatov 8/19/2018 21:28",
+	"commentStamp" : "DmitryPonyatov 8/19/2018 22:11",
 	"super" : "KLanguage",
-	"category" : "_KB",
+	"category" : "_META",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "KC89",
+	"name" : "KClike",
 	"type" : "normal"
 }

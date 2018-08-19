@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/19/2018 22:09",
+	"super" : "KSmalltalk",
+	"category" : "_META",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "KPharo",
+	"type" : "normal"
+}

@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "DmitryPonyatov 8/19/2018 21:27",
 	"super" : "KMeta",
-	"category" : "_KB",
+	"category" : "_META",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
