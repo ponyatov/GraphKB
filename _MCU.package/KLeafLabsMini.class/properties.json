@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/20/2018 15:31",
+	"super" : "KLeafLabs",
+	"category" : "_MCU",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "KLeafLabsMini",
+	"type" : "normal"
+}
