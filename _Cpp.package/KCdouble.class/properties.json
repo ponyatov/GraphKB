@@ -1,11 +1,11 @@
 {
 	"commentStamp" : "DmitryPonyatov 8/20/2018 10:47",
-	"super" : "KInt",
+	"super" : "KCfloat",
 	"category" : "_Cpp",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "KCint",
+	"name" : "KCdouble",
 	"type" : "normal"
 }

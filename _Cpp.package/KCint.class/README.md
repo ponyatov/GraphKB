@@ -1,1 +1,1 @@
-Integer
+32bit Integer 

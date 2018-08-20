@@ -1,1 +1,2 @@
 C++
+-- most portable dialect
