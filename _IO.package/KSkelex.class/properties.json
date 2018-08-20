@@ -5,7 +5,12 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
+	"instvars" : [
+		"ypp",
+		"lpp",
+		"log",
+		"src"
+	],
 	"name" : "KSkelex",
 	"type" : "normal"
 }

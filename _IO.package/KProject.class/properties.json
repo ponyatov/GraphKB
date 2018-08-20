@@ -8,7 +8,12 @@
 	"instvars" : [
 		"dir",
 		"mk",
-		"readme"
+		"readme",
+		"bat",
+		"rc",
+		"gitignore",
+		"hpp",
+		"cpp"
 	],
 	"name" : "KProject",
 	"type" : "normal"

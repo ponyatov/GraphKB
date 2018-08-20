@@ -1,0 +1,11 @@
+
+*~
+*.swp
+*.log
+*.exe
+*.o
+*.pyc
+
+
+ypp.tab.?pp
+lex.yy.c

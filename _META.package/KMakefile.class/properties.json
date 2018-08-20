@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/20/2018 17:51",
+	"super" : "KLanguage",
+	"category" : "_META",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "KMakefile",
+	"type" : "normal"
+}
