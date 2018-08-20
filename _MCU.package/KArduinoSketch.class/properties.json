@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/20/2018 15:40",
+	"super" : "KMCUProject",
+	"category" : "_MCU",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "KArduinoSketch",
+	"type" : "normal"
+}

@@ -1,0 +1,1 @@
+STM32 Specific project (custom library build + CubeMX)
