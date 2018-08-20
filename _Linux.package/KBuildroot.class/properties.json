@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/20/2018 15:10",
+	"super" : "KemLinux",
+	"category" : "_Linux",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "KBuildroot",
+	"type" : "normal"
+}

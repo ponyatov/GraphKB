@@ -1,11 +1,11 @@
 {
-	"commentStamp" : "DmitryPonyatov 8/19/2018 21:47",
+	"commentStamp" : "DmitryPonyatov 8/19/2018 21:43",
 	"super" : "KRTOS",
-	"category" : "_OS",
+	"category" : "_FreeRTOS",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "KRTAI",
+	"name" : "KFreeRTOS",
 	"type" : "normal"
 }
