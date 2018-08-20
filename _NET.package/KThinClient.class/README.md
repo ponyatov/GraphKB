@@ -1,0 +1,1 @@
+Thin Client (VNC/X/RDP)

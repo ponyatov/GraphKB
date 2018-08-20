@@ -1,11 +1,11 @@
 {
-	"commentStamp" : "DmitryPonyatov 8/20/2018 14:26",
-	"super" : "KNode",
+	"commentStamp" : "DmitryPonyatov 8/20/2018 14:43",
+	"super" : "KNClient",
 	"category" : "_NET",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "KNServer",
+	"name" : "KThinClient",
 	"type" : "normal"
 }
