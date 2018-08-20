@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "DmitryPonyatov 8/19/2018 22:07",
 	"super" : "KLanguage",
-	"category" : "_META",
+	"category" : "_Smalltalk",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
