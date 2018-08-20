@@ -1,7 +1,7 @@
 {
-	"commentStamp" : "DmitryPonyatov 8/19/2018 21:43",
+	"commentStamp" : "DmitryPonyatov 8/20/2018 15:22",
 	"super" : "KRTOS",
-	"category" : "_FreeRTOS",
+	"category" : "_MCU",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

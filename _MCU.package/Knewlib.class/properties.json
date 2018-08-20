@@ -1,7 +1,7 @@
 {
-	"commentStamp" : "DmitryPonyatov 8/20/2018 15:02",
+	"commentStamp" : "DmitryPonyatov 8/20/2018 15:22",
 	"super" : "Klibc",
-	"category" : "_FreeRTOS",
+	"category" : "_MCU",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

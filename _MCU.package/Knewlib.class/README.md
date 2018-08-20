@@ -1,0 +1,1 @@
+embedded libc for MCU devices
