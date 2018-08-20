@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/20/2018 14:35",
+	"super" : "KHW",
+	"category" : "_HW",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"cpu",
+		"ram",
+		"rom"
+	],
+	"instvars" : [ ],
+	"name" : "KComputer",
+	"type" : "normal"
+}

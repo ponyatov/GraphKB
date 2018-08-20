@@ -1,11 +1,11 @@
 {
-	"commentStamp" : "DmitryPonyatov 8/19/2018 22:31",
-	"super" : "KComputer",
+	"commentStamp" : "DmitryPonyatov 8/20/2018 14:45",
+	"super" : "KMobile",
 	"category" : "_HW",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "KSBC",
+	"name" : "KTablet",
 	"type" : "normal"
 }
