@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/20/2018 10:33",
+	"super" : "KLLfloat",
+	"category" : "_LLVM",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "KLLdouble",
+	"type" : "normal"
+}

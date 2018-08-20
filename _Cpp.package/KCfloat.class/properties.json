@@ -1,11 +1,11 @@
 {
-	"commentStamp" : "DmitryPonyatov 8/19/2018 21:28",
-	"super" : "KC89",
+	"commentStamp" : "DmitryPonyatov 8/20/2018 10:36",
+	"super" : "KNumber",
 	"category" : "_Cpp",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "KCpp",
+	"name" : "KCfloat",
 	"type" : "normal"
 }

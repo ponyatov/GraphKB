@@ -1,0 +1,1 @@
+machine Binary number / bit array
