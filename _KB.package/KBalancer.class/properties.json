@@ -1,11 +1,11 @@
 {
-	"commentStamp" : "DmitryPonyatov 8/19/2018 21:23",
+	"commentStamp" : "DmitryPonyatov 8/20/2018 11:59",
 	"super" : "KBuffer",
 	"category" : "_KB",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "KQueue",
+	"name" : "KBalancer",
 	"type" : "normal"
 }

@@ -5,7 +5,11 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
+	"instvars" : [
+		"dir",
+		"mk",
+		"readme"
+	],
 	"name" : "KProject",
 	"type" : "normal"
 }
