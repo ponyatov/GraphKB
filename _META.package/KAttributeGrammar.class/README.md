@@ -1,0 +1,1 @@
+Attribute grammar with inherited/synthesizable attributes
