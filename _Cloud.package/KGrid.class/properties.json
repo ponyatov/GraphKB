@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/20/2018 15:51",
+	"super" : "KComputer",
+	"category" : "_Cloud",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "KGrid",
+	"type" : "normal"
+}

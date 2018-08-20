@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/20/2018 15:50",
+	"super" : "KCluster",
+	"category" : "_Cloud",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "KHPC",
+	"type" : "normal"
+}
