@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/20/2018 13:01",
+	"super" : "KObject",
+	"category" : "_Logic",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"signature"
+	],
+	"instvars" : [ ],
+	"name" : "KLogic",
+	"type" : "normal"
+}
