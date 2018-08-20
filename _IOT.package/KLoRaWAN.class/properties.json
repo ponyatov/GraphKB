@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/20/2018 14:26",
+	"super" : "KIoT",
+	"category" : "_IOT",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "KLoRaWAN",
+	"type" : "normal"
+}

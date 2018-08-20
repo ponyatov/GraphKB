@@ -1,11 +1,11 @@
 {
 	"commentStamp" : "DmitryPonyatov 8/20/2018 00:44",
-	"super" : "KNCOAP",
-	"category" : "_NET",
+	"super" : "KCOAP",
+	"category" : "_IOT",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "KNLWM2M",
+	"name" : "KLWM2M",
 	"type" : "normal"
 }

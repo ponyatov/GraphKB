@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/20/2018 14:28",
+	"super" : "KNServer",
+	"category" : "_IOT",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "KIoTServer",
+	"type" : "normal"
+}

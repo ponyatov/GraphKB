@@ -1,11 +1,11 @@
 {
-	"commentStamp" : "DmitryPonyatov 8/20/2018 00:44",
-	"super" : "KNIoT",
+	"commentStamp" : "DmitryPonyatov 8/20/2018 14:26",
+	"super" : "KIO",
 	"category" : "_NET",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "KNCOAP",
+	"name" : "KNServer",
 	"type" : "normal"
 }

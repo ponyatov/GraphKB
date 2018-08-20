@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/20/2018 14:24",
+	"super" : "KLoRaHW",
+	"category" : "_IOT",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "KLoRaModule",
+	"type" : "normal"
+}

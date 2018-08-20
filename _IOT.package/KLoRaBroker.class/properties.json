@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/20/2018 14:31",
+	"super" : "KIoTServer",
+	"category" : "_IOT",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "KLoRaBroker",
+	"type" : "normal"
+}
