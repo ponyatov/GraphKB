@@ -1,11 +1,11 @@
 {
-	"commentStamp" : "DmitryPonyatov 8/19/2018 23:56",
-	"super" : "KContainer",
+	"commentStamp" : "DmitryPonyatov 8/20/2018 09:27",
+	"super" : "KLayer",
 	"category" : "_CAD",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "KLayer",
+	"name" : "KCADLayer",
 	"type" : "normal"
 }
