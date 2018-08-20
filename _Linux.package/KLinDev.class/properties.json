@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/20/2018 14:57",
+	"super" : "KLinPackage",
+	"category" : "_Linux",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "KLinDev",
+	"type" : "normal"
+}

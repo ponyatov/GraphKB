@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/20/2018 15:01",
+	"super" : "Kgcc0",
+	"category" : "_Linux",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Kfortran0",
+	"type" : "normal"
+}

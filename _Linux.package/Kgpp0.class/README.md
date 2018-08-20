@@ -1,0 +1,1 @@
+cross-compiler: C++ compiler + stdlibc++
